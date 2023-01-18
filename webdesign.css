@@ -1,0 +1,55 @@
+.navbar-nav {
+align-items: center;
+display: flex;
+list-style:none;
+text-decoration: none;
+color: white;
+
+}
+
+.navbar {
+    border-bottom: 1px solid #d1d3d5;
+    padding: 8px;
+}
+
+.navbar .navbar-nav {
+    padding: 0.5em;
+    list-style: none;
+    }
+
+    .header {
+        text-align: center;
+        text-decoration: none;
+        border-bottom:white;
+        border-radius: 20em;
+        border-width: 2mm;
+        }
+   /* mouse over link */
+a:hover {
+    color:white;
+  }
+
+
+  .navbar .navbar-nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(180, 158, 34);
+  }
+
+  .nav-link{
+    
+    color: white;
+    text-decoration: none;
+  }
+
+  body{
+    background: url(CBUM.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100%;
+    margin: 0;
+    min-height: 100vh
+  }
+
+
+  

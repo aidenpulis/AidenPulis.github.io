@@ -1,0 +1,63 @@
+body{
+    background: url(backround1.jpg);
+}
+
+.img{
+    width: 100%;
+    display: block;
+    margin-left: 0.1 em;
+    margin-top: 1em;
+    
+}   
+
+.text-white{
+    color: white;
+    margin-left: 15em;
+    font-size: 30px;
+    margin-bottom: 5em;
+
+}
+
+.text-white-2{
+    color: white;
+}
+
+.img2{
+display: block;
+margin-left: 20em;
+margin-right: auto;
+margin-top: 5em;
+max-height: 500px;
+
+}
+
+.text-white-1{
+    color: white;
+    margin-left: 9.5em;
+    font-size: 30px;
+    
+}
+
+.text-white-3{
+    color: white;
+}
+
+.boxes{
+    margin-left: 50em;
+}
+
+.buttons{
+    margin-left: 50em;
+}
+
+.title{
+    margin-left: 50em;
+    margin-bottom: 5em;
+    color: white;
+    margin-top: 10em;
+}
+
+.socials{
+    max-height: 400px;
+    margin-left: 40em;
+}
